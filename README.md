@@ -17,3 +17,5 @@
 - sass 믹스인(Mixin)
 - sass 확장(extend)
 - sass 모듈(파일을 유형별로 분류)
+- sass 강제푸쉬(git study -f origin master)
+- git pull 명령과 충돌문제 해결
